@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Organ Donation Dapp](https://covid-19-tracker-e4bda.web.app/)**
+- 🔭 I’m currently working on **[Organ Donation Dapp](https://github.com/Project-Exhibition-1/Save-Life-Secure-Organ-Donation/)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
@@ -69,4 +69,4 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Divijkatyal0406">
 </a>
-<a href="https://github.com/Divijkatyal0406?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Divijkatyal0406?tab=followers"><img src="https://img.shields.io/github/followers/Divijkatyal0406?label=Followers&style=social" alt="GitHub Badge"></a>
