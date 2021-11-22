@@ -26,7 +26,7 @@
     <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/ethereum.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/solidity.svg" style="width:500px;height:600px;/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/solidity.svg" style="width:500px;height:50px;/> </a> 
     /* <!-- <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
