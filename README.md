@@ -21,13 +21,8 @@
 ## 🚀 Languages and Tools:
 |               |           |
 |       ---     |    ---    |
-| `Android-Dev`     | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-E24800?style=for-the-badge&logo=firebase) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)|
-
-| `Blockchain-Dev`     | ![Ethereum](https://img.shields.io/badge/Ethereum-02569B?style=for-the-badge&logo=ethereum&logoColor=white) ![Polkadot](https://img.shields.io/badge/-Polkadot-E24800?style=for-the-badge&logo=polkadot)|
-
-| `Languages`   | ![C++](https://img.shields.io/badge/-C++-034D9A?style=for-the-badge&logo=c%2B%2B) ![Python](https://img.shields.io/badge/-Python-1F65AC?style=for-the-badge&logo=Python&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-307BBD?style=for-the-badge&logo=rust&logoColor=white) ![Solidity](https://img.shields.io/badge/-Solidity-307BBD?style=for-the-badge&logo=solidity&logoColor=white)|
+| `Android-Dev`     | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-E24800?style=for-the-badge&logo=firebase) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)| `Blockchain-Dev`     | ![Ethereum](https://img.shields.io/badge/Ethereum-02569B?style=for-the-badge&logo=ethereum&logoColor=white) ![Polkadot](https://img.shields.io/badge/-Polkadot-E24800?style=for-the-badge&logo=polkadot)|| `Languages`   | ![C++](https://img.shields.io/badge/-C++-034D9A?style=for-the-badge&logo=c%2B%2B) ![Python](https://img.shields.io/badge/-Python-1F65AC?style=for-the-badge&logo=Python&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-307BBD?style=for-the-badge&logo=rust&logoColor=white) ![Solidity](https://img.shields.io/badge/-Solidity-307BBD?style=for-the-badge&logo=solidity&logoColor=white)|
 | `Tools`       | ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-5D1A60?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Git](https://img.shields.io/badge/Git-682181?style=for-the-badge&logo=git&logoColor=white) ![Truffle](https://img.shields.io/badge/Truffle-682181?style=for-the-badge&logo=truffle&logoColor=white) ![Metamask](https://img.shields.io/badge/Metamask-682181?style=for-the-badge&logo=metamask&logoColor=white) ![Ganache](https://img.shields.io/badge/Ganache-682181?style=for-the-badge&logo=ganache&logoColor=white)|
-
 
 
 <!-- <p align="left"> 
