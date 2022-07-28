@@ -1,23 +1,37 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<p align="center">
+  <h1 align="center">Welcome to <a href="https://github.com/Divijkatyal0406">Divij Katyal</a>'s Profile 👋</h1>
+</p>
+<p align="center">
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Blockchain+developer;I'm+a+competitive+programmer;I'm+a+Flutter+developer;I'm+a+Web+developer" /></a>
+</p>
+<p>I'm a Blockchain Developer, I'm a Competitive Programmer, I'm a Web Developer, I also like to create projects in Flutter.</p>
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+<ul>
+  <li>👋 Hi, I’m Divij Katyal</li>
+  <li>❤️ I love to bring ideas to browser.</li>
+  <li>🌱 I’m currently learning Web Development, Cross Platform Android Development, Data Structures and Alogrithms.</li>
+  <li>💼 I'm a 3rd year student at VIT</li>
+  <li>🧐 Portfolio Website, https://divijkatyalportfolio.surge.sh/</li>
+  <li>📫 How to Reach me, divijkatyal@gmail.com</li>
+  <li>🔭 I'm currently working on, GoSecure</li>
+  
+</ul>
 
-<h1 align="center">Hi, I'm Divij Katyal</h1>
-<h3 align="center">I'm a passionate Android and Blockchain Developer from India.</h3>
-
-
-## 🙋‍♂️ About Me
-
-- 🔭 I’m currently working on **[Organ Donation Dapp](https://github.com/Project-Exhibition-1/Save-Life-Secure-Organ-Donation/)**
-
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 👨‍💻 All of my projects are available at **[My Github profile](https://github.com/Divijkatyal0406/)**
-
-- 📫 How to reach me **divijkatyal@gmail.com**
-
-- ⚡ Fun fact **I love to code while travelling**
-
+#### A little more about me
+```javascript
+const Divij = {
+  pronouns: "He" | "Him",
+  code: ["Javascript", "Python", "HTML", "CSS", "C++"],
+  askMeAbout: ["web dev", "android dev", "flutter", "blockchain"],
+  technologies: {
+      frontend: ["HTML", "CSS", "JS", "Bootstrap","Tailwind CSS"],
+      backend: ["Node,js", "Express.js"],
+      database: ["MongoDB", "Firebase"],
+      blockchain: ["Ethereum", "Polkadot"],
+      android:["Flutter"]
+  }
+}
+```
 ## 🚀 Languages and Tools:
 |               |           |
 |       ---     |    ---    |
