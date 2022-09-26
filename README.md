@@ -13,7 +13,7 @@
   <li>💼 I'm a 3rd year student at VIT</li>
   <li>🧐 Portfolio Website, https://divijkatyalportfolio.surge.sh/</li>
   <li>📫 How to Reach me, divijkatyal@gmail.com</li>
-  <li>🔭 I'm currently working on, GoSecure</li>
+  <li>🔭 I'm currently working as a SDE Intern at Fintact Global, London</li>
   
 </ul>
 
