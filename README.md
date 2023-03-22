@@ -11,7 +11,7 @@
   <li>❤️ I love to bring ideas to browser.</li>
   <li>🌱 I’m currently learning Web Development, Cross Platform Android Development, Data Structures and Alogrithms.</li>
   <li>💼 I'm a 3rd year student at VIT</li>
-  <li>🧐 Portfolio Website, https://divijkatyalportfolio.surge.sh/</li>
+  <li>🧐 Portfolio Website, (Under Development)</li>
   <li>📫 How to Reach me, divijkatyal@gmail.com</li>
   <li>🔭 I'm currently deep diving into microservices architecture</li>
   
